@@ -1,0 +1,36 @@
+/* common shared styles */
+body {
+    font-family: 'Merriweather', serif;
+}
+
+/* div releted styles */
+.div {}
+
+.nav-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding: 177px 530px 0px 530px;
+  
+
+}
+
+.nav-greeting {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    padding: 0px 344px 100px;
+
+}
+
+.header {
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 50px 140px 0px 140px;
+}
